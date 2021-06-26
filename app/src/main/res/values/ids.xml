@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="item_chat_card" type="id" />
+    <item name="item_chat_details" type="id" />
+    <item name="user_item_id" type="id" />
+    <item name="chat_date_item_id" type="id" />
+    <item name="chat_received_item_id" type="id" />
+    <item name="chat_send_item_id" type="id" />
+    <item name="chat_image_send_item_id" type="id" />
+    <item name="chat_joined_item_id" type="id" />
+</resources>

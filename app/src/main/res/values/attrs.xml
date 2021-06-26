@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="backgroundCC" format="reference" />
+    <attr name="backgroundLightCC" format="reference" />
+    <attr name="backgroundThinCC" format="reference" />
+<!--    <attr name="cardSubTitle" format="string" />
+    <attr name="cardDescription" format="string" />
+    <attr name="cardFooter" format="string" />
+    <attr name="doneButton" format="string" />
+    <attr name="cancelButton" format="string" />-->
+        <declare-styleable name="ShadowRectLayout">
+            <attr name="roundCornerRadius" format="float" />
+            <attr name="shadowRectColor" format="color" />
+            <attr name="shadowPadding" format="dimension" />
+            <attr name="offsetX" format="float" />
+            <attr name="offsetY" format="float" />
+            <attr name="baseColor" format="color" />
+            <attr name="imgGradientColor1" format="color" />
+            <attr name="imgGradientColor2" format="color" />
+            <attr name="shadowRadius" format="dimension" />
+            <attr name="imgBackground" format="integer" />
+
+            <attr name="shadow_left" format="boolean" />
+            <attr name="shadow_Right" format="boolean" />
+            <attr name="shadow_bottom" format="boolean" />
+            <attr name="shadow_Top" format="boolean" />
+        </declare-styleable>
+
+</resources>
